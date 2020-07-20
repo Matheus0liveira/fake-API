@@ -1,0 +1,35 @@
+{
+  "films": [
+    {
+      "id": "1",
+      "name": "Avengers infinity War",
+      "description": "”Após os eventos devastadores de Vingadores: Guerra Infinita, o Universo entrou em destruição por causa do Estalar de Dedos do Thanos, o Titã Louco. Com a ajuda dos heróis sobreviventes, os Vingadores devem se reunir mais uma vez para desfazer as ações de Thanos e restaurar a ordem do universo de uma vez por todas, não importa quais serão as consequências que os aguardam.”
+",
+      "image": "https://observatoriodocinema.elav.tmp.br/wp-content/uploads/2020/06/Avengers-Endgame.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Iron Man",
+      "description": "Tony Stark (Robert Downey Jr.) é um industrial bilionário, que também é um brilhante inventor. Ao ser sequestrado ele é obrigado por terroristas a construir uma arma devastadora mas, ao invés disto, constrói uma armadura de alta tecnologia que permite que fuja de seu cativeiro. A partir de então ele passa a usá-la para combater o crime, sob o alter-ego do Homem de Ferro.",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/0/00/Iron_Man_poster.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Spider Man",
+      "description": "No Filme Homem-Aranha – De Volta ao Lar VERSÃO ESTENDIDA (2017) Legendado WEBRip 720p | 1080p – Torrent Download BluRay 720p assistir online dublado e legendado full HD Dual Áudio — Depois de atuar ao lado dos Vingadores, chegou a hora do pequeno Peter Parker voltar para casa e para a sua vida, já não mais tão normal. Lutando diariamente contra pequenos crimes nas redondezas, ele pensa ter encontrado a missão de sua vida quando o terrível vilão Abutre surge amedrontando a cidade. O problema é que a tarefa não será tão fácil como ele imaginava.",
+      "image": "https://br.web.img3.acsta.net/medias/nmedia/18/87/08/91/19889657.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Fast and Furious",
+      "description": "Depois que Brian (Paul Walker) e Mia (Jordana Brewster) se aposentaram, e o resto da equipe foi exonerado, Dom (Vin Diesel) e Letty (Michelle Rodriguez) estão em lua de mel e levam uma vida pacata e completamente normal. Mas a adrenalina do passado acaba voltando com tudo quando uma mulher misteriosa (Charlize Theron) faz com que Dom retorne ao mundo do crime e da velocidade.",
+      "image": "https://i.ytimg.com/vi/pgodQwuynaY/maxresdefault.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Redeption",
+      "description": "Joey Jones (Jason Statham) é um veterano do exército norte-americano que lutou na guerra do Afeganistão. Após ter sua namorada, que estava grávida, assassinada, ele usa seus contatos com a máfia chinesa para encontrar a pessoa responsável pelo crime.",
+      "image": "https://upl.stack.com/wp-content/uploads/2013/06/Jason-Stathm-Redemption.jpg"
+    }
+  ]
+}
